@@ -1,0 +1,6 @@
+C:\Users\oscarjosue\Documents\Visual Studio 2013\PracticasUnidad1_9B\PracticasUnidad1_9B\bin\PracticasUnidad1_9B.dll.config
+C:\Users\oscarjosue\Documents\Visual Studio 2013\PracticasUnidad1_9B\PracticasUnidad1_9B\bin\PracticasUnidad1_9B.dll
+C:\Users\oscarjosue\Documents\Visual Studio 2013\PracticasUnidad1_9B\PracticasUnidad1_9B\bin\PracticasUnidad1_9B.pdb
+C:\Users\oscarjosue\Documents\Visual Studio 2013\PracticasUnidad1_9B\PracticasUnidad1_9B\obj\Debug\PracticasUnidad1_9B.csprojResolveAssemblyReference.cache
+C:\Users\oscarjosue\Documents\Visual Studio 2013\PracticasUnidad1_9B\PracticasUnidad1_9B\obj\Debug\PracticasUnidad1_9B.dll
+C:\Users\oscarjosue\Documents\Visual Studio 2013\PracticasUnidad1_9B\PracticasUnidad1_9B\obj\Debug\PracticasUnidad1_9B.pdb
